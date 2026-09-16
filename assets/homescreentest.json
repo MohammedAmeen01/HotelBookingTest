@@ -1,0 +1,53 @@
+{
+        "roomsAvailable": [
+            {
+                "roomcode": "R101",
+                "roomtype": "Deluxe Room",
+                "pricepernight": 3500.00,
+                "maxguests": 2,
+                "defaultguests": 1
+            },
+            {
+                "roomcode": "R102",
+                "roomtype": "Deluxe Room",
+                "pricepernight": 3500.00,
+                "maxguests": 2,
+                "defaultguests": 1
+            },
+            {
+                "roomcode": "R201",
+                "roomtype": "Executive Suite",
+                "pricepernight": 5800.00,
+                "maxguests": 3,
+                "defaultguests": 2
+            },
+            {
+                "roomcode": "R202",
+                "roomtype": "Executive Suite",
+                "pricepernight": 5800.00,
+                "maxguests": 3,
+                "defaultguests": 2
+            },
+            {
+                "roomcode": "R301",
+                "roomtype": "Family Room",
+                "pricepernight": 4200.00,
+                "maxguests": 4,
+                "defaultguests": 2
+            }
+        ],
+        "nightsSelected": 0,
+        "pageId": "01",
+        "navBarBgColor": "#ffffff",
+        "navBarFgColor": "#000000",
+        "pageTitle": "Welcome",
+        "pageBgColor": "#ffffff",
+        "pageBgImage": "",
+        "hasBackButton": false,
+        "hasLeftMenu": false,
+        "leftMenuIcon": "",
+        "leftMenuCTA": "",
+        "hasRightMenu": false,
+        "rightMenuCTA": "",
+        "rightMenuIcon": ""
+}
